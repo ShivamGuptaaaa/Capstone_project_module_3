@@ -1,3 +1,4 @@
+![image](https://github.com/ShivamGuptaaaa/Capstone_project_module_3/blob/main/zomato.jpg)
 #   Zomato Product Dissection
 #   Overview
 This project provides an in-depth analysis of Zomato, a global leader in food delivery and restaurant discovery. Zomato, founded in 2008 by Deepinder Goyal and Pankaj Chaddah, has transformed the way people explore, order, and enjoy food. This README serves as a guide to understand the key features, functionality, and real-world problems solved by Zomato.
